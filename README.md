@@ -1,2 +1,2 @@
 # GitIntro
-nothing special, I´m just learning
+nothing special, I´m just learning.
